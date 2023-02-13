@@ -11,5 +11,5 @@ HOW TO USE:
 
 4). After the final move, a display message will let you know that you are done with your practice.
 
-ENJOY!,
-- AMC
+ENJOY!
+AMC
